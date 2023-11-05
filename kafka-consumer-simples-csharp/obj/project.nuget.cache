@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Q/cJLnx9ktPk6V+BQ79Wn2oaaozQtLskoUM4+lD1VY4H+ZioB4kHr0GfaElGh777iEBgTLkpNqhHdyLsSqA/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\kafka-consumer-simples-csharp\\kafka-consumer-simples-csharp\\kafka-consumer-simples-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleid\\.nuget\\packages\\confluent.kafka\\1.4.3\\confluent.kafka.1.4.3.nupkg.sha512",
+    "C:\\Users\\cleid\\.nuget\\packages\\librdkafka.redist\\1.4.2\\librdkafka.redist.1.4.2.nupkg.sha512",
+    "C:\\Users\\cleid\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
